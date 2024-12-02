@@ -27,4 +27,3 @@ Reflecting on this practical, I realized that Sass significantly improves my wor
 
 This experience has boosted my confidence in front-end development, and I am excited to apply these new skills to future projects. Mastering Sass will make me a more competitive candidate in the job market and enhance my employability.
 
-Next week, I plan to explore integrating Sass with automated task runners like Gulp to further streamline my workflow. Until then, happy coding! 🎨
